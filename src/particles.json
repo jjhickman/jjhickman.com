@@ -1,0 +1,279 @@
+{
+  "fpsLimit": 60,
+  "background": {
+    "position": "fixed",
+    "repeat": "no-repeat",
+    "size": "cover"
+  },
+  "fullScreen": {
+    "enable": false,
+    "zIndex": 1
+  },
+  "interactivity": {
+    "events": {
+      "onHover": {
+        "enable": true,
+        "mode": "bubble",
+        "parallax": {
+          "force": 80
+        }
+      }
+    },
+    "modes": {
+      "bubble": {
+        "distance": 85,
+        "duration": 5,
+        "opacity": 1,
+        "size": 80
+      }
+    }
+  },
+  "particles": {
+    "move": {
+      "enable": true,
+      "outModes": {
+        "bottom": "out",
+        "left": "out",
+        "right": "out",
+        "top": "out"
+      }
+    },
+    "number": {
+      "density": {
+        "enable": true
+      },
+      "value": 15
+    },
+    "opacity": {
+      "random": {
+        "enable": true
+      },
+      "value": {
+        "min": 0.3,
+        "max": 0.6
+      }
+    },
+    "size": {
+      "value": 50
+    },
+    "shape": {
+      "options": {
+        "image": [
+          {
+            "src": "aws.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "cpp.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "cs.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "docker.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "java.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "js.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "lua.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mongodb.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mui.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mysql.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "nginx.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "nodejs.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "postgresql.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "python.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "react.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "redhat.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "rpi.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "spring.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "tf.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "ubuntu.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "windows.svg",
+            "width": 32,
+            "height": 32
+          }
+        ],
+        "images": [
+          {
+            "src": "aws.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "cpp.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "cs.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "docker.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "java.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "js.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "lua.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mongodb.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mui.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "mysql.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "nginx.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "nodejs.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "postgresql.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "python.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "react.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "redhat.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "rpi.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "spring.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "tf.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "ubuntu.svg",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "src": "windows.svg",
+            "width": 32,
+            "height": 32
+          }
+        ]
+      },
+      "type": "image"
+    }
+  }
+}
